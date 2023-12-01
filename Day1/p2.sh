@@ -1,3 +1,5 @@
+#!/bin/sh
+
 input="./input2.txt"
 
 # This is one of my worst moments xD
