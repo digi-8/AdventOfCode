@@ -1,5 +1,6 @@
 input="./input2.txt"
 
+# This is one of my worst moments xD
 sed -i -e 's/one/one1one/g' $input
 sed -i -e 's/two/two2two/g' $input
 sed -i -e 's/three/three3three/g' $input
